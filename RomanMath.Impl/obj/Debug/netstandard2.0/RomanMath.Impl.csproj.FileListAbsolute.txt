@@ -1,0 +1,9 @@
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.deps.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csprojAssemblyReference.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfoInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfo.cs
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb

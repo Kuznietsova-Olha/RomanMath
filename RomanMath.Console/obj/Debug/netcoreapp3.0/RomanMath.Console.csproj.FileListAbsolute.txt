@@ -1,0 +1,16 @@
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.exe
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.deps.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.dev.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csprojAssemblyReference.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfoInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfo.cs
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CoreCompileInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CopyComplete
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache

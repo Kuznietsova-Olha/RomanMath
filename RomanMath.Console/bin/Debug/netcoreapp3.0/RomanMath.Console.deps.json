@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RomanMath.Console/1.0.0": {
+        "dependencies": {
+          "RomanMath.Impl": "1.0.0"
+        },
+        "runtime": {
+          "RomanMath.Console.dll": {}
+        }
+      },
+      "RomanMath.Impl/1.0.0": {
+        "runtime": {
+          "RomanMath.Impl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RomanMath.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RomanMath.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
